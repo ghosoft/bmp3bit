@@ -1,0 +1,9 @@
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\bin\Debug\bmp3bit.exe
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\bin\Debug\bmp3bit.pdb
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.csprojResolveAssemblyReference.cache
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.Form1.resources
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.Properties.Resources.resources
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.csproj.GenerateResource.Cache
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.csproj.CoreCompileInputs.cache
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.exe
+D:\software_cache\onedrive\PROJECTS\_wave_share\sharp_memory_lcd\bmp3bit\bmp3bit\obj\Debug\bmp3bit.pdb
