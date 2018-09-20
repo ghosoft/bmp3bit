@@ -33,4 +33,5 @@
 
 
 /.vs
-/bmp3bit
+/bmp3bit/bin
+/bmp3bit/obj
