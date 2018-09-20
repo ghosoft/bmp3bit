@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+
+
+/.vs
+/bmp3bit
